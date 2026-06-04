@@ -1,2 +1,0 @@
-# HandAR
-HandAR
